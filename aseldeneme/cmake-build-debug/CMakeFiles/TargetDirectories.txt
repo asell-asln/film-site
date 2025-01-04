@@ -1,0 +1,3 @@
+C:/Users/nehir/OneDrive/Masaüstü/C DOSYALARI/aseldeneme/cmake-build-debug/CMakeFiles/aseldeneme.dir
+C:/Users/nehir/OneDrive/Masaüstü/C DOSYALARI/aseldeneme/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nehir/OneDrive/Masaüstü/C DOSYALARI/aseldeneme/cmake-build-debug/CMakeFiles/rebuild_cache.dir
